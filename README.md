@@ -34,5 +34,4 @@ QuickKart is a clean, intuitive, and user-friendly grocery shopping app. The des
 
 ---
 
-## **Folder Structure**
 
