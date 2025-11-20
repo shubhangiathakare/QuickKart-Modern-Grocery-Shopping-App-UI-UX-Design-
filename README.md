@@ -8,7 +8,7 @@ This repository contains the **Figma design file and prototype** for showcasing 
 
 ## **Prototype Link**
 
-[View QuickKart in Figma]([https://lnkd.in/gHCWAYku](https://www.figma.com/proto/r2U4JxNCkRMWwp6BNDoC2w/QuickKart-Project-Design--Grocery-App-?page-id=2%3A5&node-id=491-3238&viewport=-309%2C-2%2C0.15&t=55KPBq2eVnDnuzAF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=491%3A3164))
+[View QuickKart in Figma]([https://lnkd.in/gHCWAYku](https://www.figma.com/proto/r2U4JxNCkRMWwp6BNDoC2w/QuickKart-Project-Design--Grocery-App-?page-id=2%3A5&node-id=491-3238&viewport=-309%2C-2%2C0.15&t=55KPBq2eVnDnuzAF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=491%3A3164)
 
 > Note: You need Figma access to view the interactive prototype.
 
